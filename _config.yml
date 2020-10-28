@@ -30,11 +30,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
 # to use a theme not supported by github pages, use github repository URL:
 # example for theme repo URL https://github.com/benbalter/retlab
 # IF POSSIBLE, FORK THE THEME AND USE YOUR OWN FORK
 # remote_theme: benbalter/retlab
+remote_theme: Huxpro/huxpro
 plugins:
     - jekyll-feed
 
