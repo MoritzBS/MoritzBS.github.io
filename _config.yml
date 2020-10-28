@@ -35,7 +35,7 @@ github_username:  jekyll
 # example for theme repo URL https://github.com/benbalter/retlab
 # IF POSSIBLE, FORK THE THEME AND USE YOUR OWN FORK
 # remote_theme: benbalter/retlab
-remote_theme: Huxpro/huxpro
+remote_theme: huxpro/huxpro.git
 plugins:
     - jekyll-feed
 
