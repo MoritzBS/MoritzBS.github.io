@@ -56,7 +56,7 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-remote_theme: Huxpro/huxpro.github.io
+
 
 # Disqus settings
 disqus_username: hux
