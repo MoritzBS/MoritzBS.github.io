@@ -34,6 +34,7 @@ github_username:  jekyll
 # to use a theme not supported by github pages, use github repository URL:
 # example for theme repo URL https://github.com/benbalter/retlab
 # IF POSSIBLE, FORK THE THEME AND USE YOUR OWN FORK
+markdown: kramdown
 remote_theme: benbalter/retlab
 # remote_theme: huxpro/huxpro.github.io
 plugins:
