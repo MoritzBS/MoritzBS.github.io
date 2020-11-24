@@ -5,7 +5,7 @@ subtitle:   "Creating Scientific Podcasts in Master courses"
 date:       2020-11-29 22:00:00
 author:     "Moritz"
 header-img: "img/post-bg-pexels-tommy-lopez-765139.jpg"
-header-mask: 0.3
+header-mask: 1
 catalog:    true
 tags:
   - Digital Teaching
