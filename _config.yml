@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Hallo"
+sidebar-about-description: "Research Associate and PhD Candidate at TU Berlin, Senior Consultant at IBM. Research focus on the interplay of digital innovation and institutional quality"
 sidebar-avatar: /img/mo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -100,12 +100,12 @@ page-mathjax: false
 
 
 
-# Friends
-#friends: [
-    #{
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+ Friends
+friends: [
+    {
+         title: "My TU Website",
+         href: "https://www.inno.tu-berlin.de/menue/about_us/team/moritz_boehmecke_schwafert/"
+     },{
        # title: "乱序",
        # href: "http://mida.re/"
    # },{
@@ -132,5 +132,5 @@ page-mathjax: false
     #},{
      #   title: "尹峰以为",
       #  href: "http://ingf.github.io/"
-    #}
-#]
+    }
+]
