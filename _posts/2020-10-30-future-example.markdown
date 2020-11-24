@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Digital Teaching and Science Communication: 
+title:      "Digital Teaching and Science Communication:" 
 subtitle:   "Scientific podcasts in University Master courses"
 date:       2020-11-29 22:00:00
 author:     "Moritz"
