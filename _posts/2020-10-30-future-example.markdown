@@ -13,6 +13,7 @@ tags:
   - Teaching
   - Digital Innovation
 ---
+
 Science communication (SciComm) is almost as much as important as the science itself. An effective evidence-based SciComm empowers the public to embrace the unbiased view that scientists should have. This is underscored by recent developments and divergences between politics, science, and societies in the face of climate change, pandemics, and the global resurgence of right-wing populism. In higher education, master students should be equipped with professional skills but also with multi-, inter, and transdisciplinary competencies. Besides, students should be ambassadors of their study fields, leading conversations about the research developments in their field and their own research.
 
 Excellent ways to present scientific results to the public are broadcasting on television or radio.
