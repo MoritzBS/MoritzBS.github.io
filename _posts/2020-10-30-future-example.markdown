@@ -4,7 +4,7 @@ title:      "Digital Teaching and Science Communication"
 subtitle:   "Creating Scientific Podcasts in Master courses"
 date:       2020-11-29 22:00:00
 author:     "Moritz"
-header-img: "img/post-bg-pexels-tommy-lopez-765139.jpg"
+header-img: "img/post-bg-tommy-lopez-765139.jpg"
 header-mask: 20
 catalog:    true
 tags:
