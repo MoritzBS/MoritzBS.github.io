@@ -4,11 +4,11 @@ SEOTitle: Moritz Böhmecke-Schwafert
 header-img: img/home-bg.jpg
 email: moritzboehmecke@gmail.com
 description: "Digital Innovation Economist"
-keyword: "Digital Innovation, Economics, Macroeconomics, Innovation, Digitization, Blockchain, Economic Development, Sustainable Development"
+keyword: "Digital Innovation, Economics, Macroeconomics, Innovation, Digitization, Blockchain, Economic Development, Sustainable Development, Trade, Global Value Chains, Distributed ledger Technologies"
 #url: "https://moritzbs.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-# Publish posts or collection documents with a future date.
+# Publish posts or collection documents with a future daty
 future: true
 
 # SNS settings
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Research Associate and PhD Candidate at TU Berlin, Senior Consultant at IBM. Research focus on the interplay of digital innovation and institutional quality"
+sidebar-about-description: "Research Associate and PhD Candidate at TU Berlin, Senior Consultant at IBM. Research focus on the role and interplay of digital innovation and institutions for sustainable development"
 sidebar-avatar: /img/mo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
