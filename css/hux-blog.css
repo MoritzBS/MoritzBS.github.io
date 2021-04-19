@@ -991,6 +991,7 @@ samp {
      */
   font-family: "PTSans", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
+  text-shadow: 0 0 5px black;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
@@ -1152,6 +1153,7 @@ samp {
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
+  text-shadow: 0 0 5px black;
   padding: 85px 0 55px;
   color: white;
 }
