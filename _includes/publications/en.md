@@ -12,12 +12,12 @@ The General Data Protection Regulation (GDPR) has recently come into force and w
 
 ## Selected ongoing projects:
 
-### Böhmecke-Schwafert, M. (2021): The Phenomenon of Blockchain Innovation for International Trade in Global Value Chains: A Systematic Literature Review
+Böhmecke-Schwafert, M. (2021): The Phenomenon of Blockchain Innovation for International Trade in Global Value Chains: A Systematic Literature Review
 
-### Böhmecke-Schwafert, M., Blind, K. (2021): The influence of Product Market Regulation on Trade in Global Value Chains: Evidence from OECD and BRICS Countries from 2000–2015,
+Böhmecke-Schwafert, M., Blind, K. (2021): The influence of Product Market Regulation on Trade in Global Value Chains: Evidence from OECD and BRICS Countries from 2000–2015,
 
-### Böhmecke-Schwafert, M., García Moreno, Eduardo. (2021): Exploring Blockchain-based Innovations for Economic and Sustainable Development in the Global South: A Mixed-Method Approach based onWeb Mining and Topic Modeling
+Böhmecke-Schwafert, M., García Moreno, Eduardo. (2021): Exploring Blockchain-based Innovations for Economic and Sustainable Development in the Global South: A Mixed-Method Approach based onWeb Mining and Topic Modeling
 
-### Böhmecke-Schwafert, M., Dörries, C. (2021): Measuring Innovation in Emerging Countries with Unsupervised Machine Learning An explorative analysis of the ICT Sector in Mauritius based on Web Mining and Topic Modeling,
+Böhmecke-Schwafert, M., Dörries, C. (2021): Measuring Innovation in Emerging Countries with Unsupervised Machine Learning An explorative analysis of the ICT Sector in Mauritius based on Web Mining and Topic Modeling,
 
 
