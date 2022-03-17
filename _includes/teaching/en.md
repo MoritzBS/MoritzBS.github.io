@@ -23,5 +23,7 @@ Wien, B.Sc., summer 2021
 
 ### Teaching Assistant
 **Sustainable Innovation**, M.Sc., winter 2018/19, 2019/20, 2020/21
+
 **Digital Innovation**, M.Sc., summer 2017/18, winter 2017/18
+
 **Data-Driven Business Opportunities**, M.Sc., winter 2017/18
