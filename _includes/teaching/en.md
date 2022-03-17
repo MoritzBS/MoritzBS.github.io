@@ -1,9 +1,9 @@
 ### Main Instructor and Lecturer
 
-**Digital Innovation**, lecture and exercise, Technical University of Berlin, M.Sc. summer
+* **Digital Innovation**, lecture and exercise, Technical University of Berlin, M.Sc. summer
 semesters 2018–2022
 
-**Seminar in Innovation Research**, Technical University of Berlin, M.Sc, summer 2020
+* **Seminar in Innovation Research**, Technical University of Berlin, M.Sc, summer 2020
 
 **Seminar Project management tools in research**, Technical University of Berlin, staff
 training, winter 2020/21
