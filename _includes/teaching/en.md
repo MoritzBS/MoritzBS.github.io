@@ -11,6 +11,7 @@ training, winter 2020/21
 **Seminar Design Thinking**, personal skills course, Wirtschaftsuniversität Wien, M.Sc., summer
 2021
 
+
 ### Guest Lecturer
 **Quality Infrastructure Management**, ’Blockchain and Standards’, Technical University
 of Berlin, M.Sc., winter 2018/19,
@@ -20,6 +21,7 @@ of Berlin, M.Sc., winter 2020/21
 
 **Strategic Management and Innovation**, ’Fundamentals of Digital Innovation’, Wirtschaftsuniversität
 Wien, B.Sc., summer 2021
+
 
 ### Teaching Assistant
 **Sustainable Innovation**, M.Sc., winter 2018/19, 2019/20, 2020/21
