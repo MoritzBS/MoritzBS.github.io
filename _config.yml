@@ -106,8 +106,8 @@ friends: [
          title: "My TU Website",
          href: "https://www.inno.tu-berlin.de/menue/about_us/team/moritz_boehmecke_schwafert/"
      },{
-       # title: "乱序",
-       # href: "http://mida.re/"
+       title: "My Academic CV",
+        href: "https://raw.githubusercontent.com/MoritzBS/MoritzBS.github.io/main/Academic_CV_Moritz_Bo%CC%88hmecke-Schwafert.pdf/"
    # },{
         #title: "Sherry Wu",
         #href: "https://xuechundesign.github.io"
