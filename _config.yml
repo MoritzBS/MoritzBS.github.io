@@ -84,7 +84,7 @@ sidebar-avatar: /img/mo.jpg      # use absolute URL, seeing it's used in both `/
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
@@ -108,12 +108,12 @@ friends: [
      },{
        title: "My Academic CV",
         href: "https://raw.githubusercontent.com/MoritzBS/MoritzBS.github.io/main/Academic_CV_Moritz_Bo%CC%88hmecke-Schwafert.pdf/"
-   # },{
-        #title: "Sherry Wu",
-        #href: "https://xuechundesign.github.io"
-    #},{
-     #   title: "Luke 的自留地",
-      #  href: "http://hmqk1995.github.io"
+    },{
+        title: "My Google Scholar Profile",
+        href: "https://scholar.google.com/citations?user=JJ_BLw0AAAAJ&hl=en"
+    },{
+        title: "My ResearchGate Profile",
+      #  href: "https://www.researchgate.net/profile/Moritz-Boehmecke-Schwafert"
     #},{
      #   title: "Ebn's Blog",
       #  href: "http://ebnbin.com/"
