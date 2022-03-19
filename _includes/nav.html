@@ -25,10 +25,10 @@
                             
                         </li>
                         
-                        <li><a href="/about_en.html">About</a></li>
-                         <li><a href="_teaching.html">Teaching</a></li>
-                        <li><a href="research.html">Research</a></li>
-                        <li><a href="archive.html">Archive</a></li>
+                        {% assign sorted_pages = site.pages | sort:"name" %}
+                        {% for node in sorted_pages %}
+                          <li><a href="{{node.url}}">{{node.title}}</a></li>
+                        {% endfor %}
                         
                         <li class="search-icon">
                             <a href="javascript:void(0)">
