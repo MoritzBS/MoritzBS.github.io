@@ -29,14 +29,6 @@
                          <li><a href="/teaching.html">Teaching</a></li>
                         <li><a href="/research.html">Research</a></li>
                         
-                        
-                        {% for page in site.pages %}
-                        {% if page.title and page.hide-in-nav != true %}
-                        <li>
-                            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                        </li>
-                        {% endif %}
-                        {% endfor %}
                         <li class="search-icon">
                             <a href="javascript:void(0)">
                                 <i class="fa fa-search"></i>
