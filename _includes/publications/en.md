@@ -13,14 +13,14 @@
 *Abstract: The General Data Protection Regulation (GDPR) has recently come into force and will have wide implications for the digital economy and the business models of various tech firms, as well as providing new opportunities for innovation. The GDPR aims to provide consumers with the control of their personal data, provide trust in the digital economy and harmonize data protection throughout the EU pursuant to the Digital Single Market strategy. This paper attempts to analyze and outline how the GDPR might change the data-driven business models (DDBMs) of firms, yet nonetheless they may lead to a variety of positive effects. Indeed, the principles and individual rights in the GDPR tackle monopolistic structures (and lock-ins), and they can increase the quality of data and digital provisions as a result of competitive pressures, as well as promoting consumer trust in the digital market. One of the individual rights and newer features introduced by the GDPR, namely the right to ‘data portability’, will be considered with regard to the case of its impact on Facebook’s DDBM.*
 
 
-## Selected ongoing projects:
+## Selected ongoing projects (pending publication):
 
-Böhmecke-Schwafert, M. (2021): The Phenomenon of Blockchain Innovation for International Trade in Global Value Chains: A Systematic Literature Review
+Böhmecke-Schwafert, M. (2021): The Phenomenon of Blockchain Innovation for International Trade in Global Value Chains: A Systematic Literature Review-
 
-Böhmecke-Schwafert, M., Blind, K. (2021): The influence of Product Market Regulation on Trade in Global Value Chains: Evidence from OECD and BRICS Countries from 2000–2015,
+Böhmecke-Schwafert, M., Blind, K. (2021): The influence of Product Market Regulation on Trade in Global Value Chains: Evidence from OECD and BRICS Countries from 2000–2015.
 
-Böhmecke-Schwafert, M., García Moreno, Eduardo. (2021): Exploring Blockchain-based Innovations for Economic and Sustainable Development in the Global South: A Mixed-Method Approach based onWeb Mining and Topic Modeling
+Böhmecke-Schwafert, M., García Moreno, Eduardo. (2021): Exploring Blockchain-based Innovations for Economic and Sustainable Development in the Global South: A Mixed-Method Approach based onWeb Mining and Topic Modeling.
 
-Böhmecke-Schwafert, M., Dörries, C. (2021): Measuring Innovation in Emerging Countries with Unsupervised Machine Learning An explorative analysis of the ICT Sector in Mauritius based on Web Mining and Topic Modeling,
+Böhmecke-Schwafert, M., Dörries, C. (2021): Measuring Innovation in Emerging Countries with Unsupervised Machine Learning An explorative analysis of the ICT Sector in Mauritius based on Web Mining and Topic Modeling.
 
 
