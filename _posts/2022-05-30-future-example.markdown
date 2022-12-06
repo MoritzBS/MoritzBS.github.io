@@ -32,4 +32,4 @@ A solution for this is increasing the automation of processes and the technologi
 
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article for free here: 
 
-[![Foo](https://onlinelibrary.wiley.com/cover/10990836.jpg)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
+[(https://onlinelibrary.wiley.com/cover/10990836.jpg)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
