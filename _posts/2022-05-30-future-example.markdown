@@ -20,6 +20,7 @@ Our article on blockchain-based innovations for the Circular Economy has been re
 In this paper, we analyze the role and potential of the technology for the transition to a circular economy and developed a theoretical model of drivers and barriers. 
 
 ## What is the Circular Economy?
+<img src="/img/in-post/reduce.png" alt="Sunflower" style="float: right; margin-right: 15px;">
 The concept of the Circular Economy is still evolving. The term was originally coined by the Ellen MacArthur Foundation in 2013, describing it as an "industrial economy that is restorative or regenerative by intention and design.
 .The goal of the circular economy is to transition from today's linear economic model to a closed-loop economy based on resource regeneration and ecosystem restoration. Hence, instead of the linear paradigm (i.e., take, make, dispose) that focuses on continuous growth, the circular economy postulates a closed loop within the planet's ecological limits based on three main principles: reduce, reuse, and recycle. Research has shown that innovation can be crucial in transitioning to a circular economy.
 
