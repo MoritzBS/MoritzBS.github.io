@@ -35,12 +35,11 @@ This is our theoretical model of relationships:
 
 <img src="/img/in-post/theoreticalmodel.jpg" alt="Theoretical Model" width="1000"/>
 
-<img align="right" alt="Journal Cover" width="200" src="/img/in-post/bse.jpg">
-If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 
- <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032">
-      <img  alt="Journal Cover" src="/img/in-post/bse.jpg" width=150" class="center">
-   </a>
-                                                                                
+If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here:   
+
+<img align="Center" alt="Journal Cover" width="190" src="/img/in-post/bse.jpg">
+
+<p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
    
                                                                                 
