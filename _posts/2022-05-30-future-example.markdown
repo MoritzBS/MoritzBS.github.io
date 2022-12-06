@@ -31,7 +31,8 @@ In addition to identifying and clustering blockchain-based innovations, we devel
 A solution for this is increasing the automation of processes and the technological convergence with Internet of Things technologies (e.g., sensors and RFID chips) to reduce the risk of inaccurate data entry. At the same time, additional external data sources (e.g., GPS) can be harnessed to triangulate data entries.
 
 This is our theoretical model of relationships:
-<img src="/img/in-post/theoreticalmodel.jpg" alt="drawing" width="400"/>
+
+<img src="/img/in-post/theoreticalmodel.jpg" alt="drawing" width="1000"/>
 
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 
