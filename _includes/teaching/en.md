@@ -12,7 +12,7 @@ training, winter 2020/21
 2021
 
 ***
-### Guest Lecturer
+### Guest Lectures
 **Quality Infrastructure Management**, ’Blockchain and Standards’, Technical University
 of Berlin, M.Sc., winter 2018/19,
 
