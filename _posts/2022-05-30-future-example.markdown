@@ -32,4 +32,5 @@ A solution for this is increasing the automation of processes and the technologi
 
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article for free here: 
 
-[<img src="[http://www.google.com.au/images/nav_logo7.png](https://onlinelibrary.wiley.com/cms/asset/ebd29aad-402e-472d-82d5-c581428b542e/bse.v31.8.cover.gif)">]([http://google.com.au/](https://onlinelibrary.wiley.com/journal/10990836?utm_source=google&utm_medium=paidsearch&utm_campaign=R3MR425&utm_content=SocBehavSci&gclid=Cj0KCQiAyracBhDoARIsACGFcS50jYw1eNA3yQ0NlHR-yO_2LM3-qZMDrCpwb4yOtmjOvtEq02wn2lsaAvuSEALw_wcB))
+
+[<img src="[https://onlinelibrary.wiley.com/cover/10990836](https://onlinelibrary.wiley.com/cms/asset/ebd29aad-402e-472d-82d5-c581428b542e/bse.v31.8.cover.gif)">]((https://onlinelibrary.wiley.com/journal/10990836?utm_source=google&utm_medium=paidsearch&utm_campaign=R3MR425&utm_content=SocBehavSci&gclid=Cj0KCQiAyracBhDoARIsACGFcS50jYw1eNA3yQ0NlHR-yO_2LM3-qZMDrCpwb4yOtmjOvtEq02wn2lsaAvuSEALw_wcB))]
