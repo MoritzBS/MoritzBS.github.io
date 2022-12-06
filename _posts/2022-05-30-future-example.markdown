@@ -20,17 +20,9 @@ Our article on blockchain-based innovations for the Circular Economy has been re
 In this paper, we analyze the role and potential of the technology for the transition to a circular economy and developed a theoretical model of drivers and barriers. 
 
 ## What is the Circular Economy?
-![image](/img/in-post/reduce.png){: style="float: left"}
+<img align="right" alt="Principles of the Circular Economy" width="200" src="/img/in-post/reduce.png">
 The concept of the Circular Economy is still evolving. The term was originally coined by the Ellen MacArthur Foundation in 2013, describing it as an "industrial economy that is restorative or regenerative by intention and design. 
 .The goal of the circular economy is to transition from today's linear economic model to a closed-loop economy based on resource regeneration and ecosystem restoration. Hence, instead of the linear paradigm (i.e., take, make, dispose) that focuses on continuous growth, the circular economy postulates a closed loop within the planet's ecological limits based on three main principles: reduce, reuse, and recycle. Research has shown that innovation can be crucial in transitioning to a circular economy.
-
-<img src="/img/in-post/reduce.png" alt="Principles of the Circular Economy" width="100"/>
-
-
-<div>
-    <p style="float: right;"><img src="/img/in-post/reduce.png" alt="Principles of the Circular Economy" width="100"/></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
 
 ## How can blockchain technology support the transition?
 We identified five categories through which blockchain-based innovations could support the transition to a circular economy based on interviews with 18 experts and data triangulation with peer-reviewed literature. First, Blockchain-based supply chain management systems can facilitate traceability in complex supply chains and increase responsible buying behavior by providing trusted provenance knowledge (e.g., the origin of harvested timber in an immutable record). Second, in waste management, blockchain can support waste exchange platforms and recycling schemes through smart contracts. Third, blockchain can support the use of renewable energies through peer-to-peer energy trading platforms and source verification systems. Although many blockchain applications (e.g., Bitcoin) still rely on energy-intensive Proof-of-Work consensus with potentially negative environmental consequences, the technology is increasingly maturing and further transitioning to more sustainable consensus mechanisms (e.g., proof-of-stake). Fourth, blockchain-based token rewards systems incentivize sustainable behavior (e.g., the Plastic Bank and waste collection schemes). And lastly, blockchain could disintermediate the sharing economy and significantly decrease transaction costs with peer-to-peer smart contracts for sharing assets.
@@ -46,7 +38,7 @@ This is our theoretical model of relationships:
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 
  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032">
-      <img alt="Journal Cover" src="/img/in-post/bse.jpg" width=150">
+      <img  alt="Journal Cover" src="/img/in-post/bse.jpg" width=150" class="center">
    </a>
                                                                                 
    
