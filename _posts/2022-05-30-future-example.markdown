@@ -33,8 +33,8 @@ A solution for this is increasing the automation of processes and the technologi
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 [![A mushroom-head robot](https://onlinelibrary.wiley.com/cover/10990836/bse.v31.8.cover.jpg)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
 
-<a> <href="https://example.com" target="_blank">
+<href="https://example.com" target="_blank">
 <img src="/img/in-post/bse.jpg" alt="drawing" style="width:200px;"/>
-</a>
-  
-href="https://www.tutorialspoint.com"> <img src="/img/in-post/bse.jpg" alt="Journal Cover" title="image Title" width="150"/>
+
+  h2>Image as a Link</h2>
+<a> href="https://www.tutorialspoint.com"> <img src="/img/in-post/bse.jpg" alt="Journal Cover" title="image Title" width="150"/> </a>
