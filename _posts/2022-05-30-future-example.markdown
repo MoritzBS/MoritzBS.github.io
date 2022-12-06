@@ -38,3 +38,9 @@ If you want to learn more about this research, blockchain technology, the Circul
 
   h2>Image as a Link</h2>
 <a> href="https://www.tutorialspoint.com"> <img src="/img/in-post/bse.jpg" alt="Journal Cover" title="image Title" width="150"/> </a>
+
+
+
+ <a href="https://www.qries.com/">
+      <img alt="Qries" src="https://www.qries.com/images/banner_logo.png" width=150" height="70">
+   </a>
