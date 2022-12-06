@@ -36,4 +36,5 @@ If you want to learn more about this research, blockchain technology, the Circul
 <a> <href="https://example.com" target="_blank">
 <img src="/img/in-post/bse.jpg" alt="drawing" style="width:200px;"/>
 </a>
-
+  
+href="https://www.tutorialspoint.com"> <img src="/img/in-post/bse.jpg" alt="Journal Cover" title="image Title" width="150"/>
