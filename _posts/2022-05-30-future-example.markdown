@@ -5,7 +5,7 @@ subtitle:   "Blockchain for the circular economy: Theorizing blockchain's role i
 date:       2022-5-30 22:00:00
 author:     "Moritz"
 header-img: "img/post-bg-circularrelationships.jpg"
-header-mask: 0.5
+header-mask: 0.3
 catalog:    true
 tags:
   - Blockchain
@@ -31,5 +31,5 @@ In addition to identifying and clustering blockchain-based innovations, we devel
 A solution for this is increasing the automation of processes and the technological convergence with Internet of Things technologies (e.g., sensors and RFID chips) to reduce the risk of inaccurate data entry. At the same time, additional external data sources (e.g., GPS) can be harnessed to triangulate data entries.
 
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article for free here: 
+[![A mushroom-head robot](img/post-bg-circularrelationships.jpg 'Codey the Codecademy mascot')](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
 
-[![my new puppy](img/post-bg-circularrelationships.jpg)]([https://www.instagram.com/dexter_cockerjack/](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032))
