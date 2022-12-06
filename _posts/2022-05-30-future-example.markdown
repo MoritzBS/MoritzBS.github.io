@@ -30,10 +30,10 @@ We identified five categories through which blockchain-based innovations could s
 In addition to identifying and clustering blockchain-based innovations, we developed a theoretical model of relationships between blockchain-based innovations and drivers and barriers of the Circular Economy. The model is based on empirical data (and not conceptual or anecdotal as previous research did) and should support future research in the domain to understand the relationships. Our main finding is that blockchain can be the proper technological infrastructure for many circular economy applications, whereas it cannot be a panacea for solving all inherent challenges of transitioning to a Circular Economy (e.g., the tradeoff between sustainability and profit objectives or lack of governmental support). In some cases, blockchain-based innovations can moderate drivers (increase) and barriers (decrease) of the transition to a circular economy. However, a significant challenge that spans across many blockchain applications is the so-called oracle problem: oracles (in reference to the Greek gods) are the trusted gateway of a blockchain and the physical world. These oracles process external and deterministic data and convert it to a format to be stored as an immutable record on the blockchain. It becomes clear that (as in any other translation of analog to digital data) the transmission of the data requires trust in the gateway.
 A solution for this is increasing the automation of processes and the technological convergence with Internet of Things technologies (e.g., sensors and RFID chips) to reduce the risk of inaccurate data entry. At the same time, additional external data sources (e.g., GPS) can be harnessed to triangulate data entries.
 
-If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article for free here: 
+If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 [![A mushroom-head robot](https://onlinelibrary.wiley.com/cover/10990836/bse.v31.8.cover.jpg)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
 
-<a> href="https://example.com" target="_blank">
+<a> <href="https://example.com" target="_blank">
 <img src="/img/in-post/bse.jpg" alt="drawing" style="width:200px;"/>
 </a>
 
