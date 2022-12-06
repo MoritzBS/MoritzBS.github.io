@@ -36,6 +36,5 @@ If you want to learn more about this research, blockchain technology, the Circul
       <img alt="Journal Cover" src="/img/in-post/bse.jpg" width=150" height="70">
    </a>
                                                                                 
-   <a href="https://www.qries.com/">
-      <img alt="Qries" src="https://www.qries.com/images/banner_logo.png" width=150" height="70">
-   </a>
+   
+                                                                                
