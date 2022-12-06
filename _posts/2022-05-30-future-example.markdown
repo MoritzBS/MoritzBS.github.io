@@ -34,5 +34,5 @@ If you want to learn more about this research, blockchain technology, the Circul
 
 [([https://onlinelibrary.wiley.com/cover/10990836.png))](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
 
-[![alt_text](https://onlinelibrary.wiley.com/cover/10990836.png)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
+[(https://onlinelibrary.wiley.com/cover/10990836.jpg)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
 
