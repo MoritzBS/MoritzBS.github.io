@@ -50,6 +50,5 @@ If you want to learn more about this research, blockchain technology, the Circul
    <center>
       <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032"><img src="/img/in-post/bse.jpg" alt="Journal Cover" width="190"></a>
    </center>
-</body>
-</html>
+
        
