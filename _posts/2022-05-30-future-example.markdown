@@ -25,6 +25,12 @@ The concept of the Circular Economy is still evolving. The term was originally c
 
 <img src="/img/in-post/reduce.png" alt="Principles of the Circular Economy" width="100"/>
 
+
+<div>
+    <p style="float: left;"><img src="/img/in-post/reduce.png" alt="Principles of the Circular Economy" width="100"/></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
+</div>
+
 ## How can blockchain technology support the transition?
 We identified five categories through which blockchain-based innovations could support the transition to a circular economy based on interviews with 18 experts and data triangulation with peer-reviewed literature. First, Blockchain-based supply chain management systems can facilitate traceability in complex supply chains and increase responsible buying behavior by providing trusted provenance knowledge (e.g., the origin of harvested timber in an immutable record). Second, in waste management, blockchain can support waste exchange platforms and recycling schemes through smart contracts. Third, blockchain can support the use of renewable energies through peer-to-peer energy trading platforms and source verification systems. Although many blockchain applications (e.g., Bitcoin) still rely on energy-intensive Proof-of-Work consensus with potentially negative environmental consequences, the technology is increasingly maturing and further transitioning to more sustainable consensus mechanisms (e.g., proof-of-stake). Fourth, blockchain-based token rewards systems incentivize sustainable behavior (e.g., the Plastic Bank and waste collection schemes). And lastly, blockchain could disintermediate the sharing economy and significantly decrease transaction costs with peer-to-peer smart contracts for sharing assets.
 
