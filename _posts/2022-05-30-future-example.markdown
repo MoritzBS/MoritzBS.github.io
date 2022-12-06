@@ -33,7 +33,7 @@ A solution for this is increasing the automation of processes and the technologi
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 
  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032">
-      <img alt="Journal Cover" src="/img/in-post/bse.jpg" width=150" height="70">
+      <img alt="Journal Cover" src="/img/in-post/bse.jpg" width=150">
    </a>
                                                                                 
    
