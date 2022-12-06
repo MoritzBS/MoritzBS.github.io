@@ -27,7 +27,7 @@ The concept of the Circular Economy is still evolving. The term was originally c
 
 
 <div>
-    <p style="float: left;"><img src="/img/in-post/reduce.png" alt="Principles of the Circular Economy" width="100"/></p>
+    <p style="float: right;"><img src="/img/in-post/reduce.png" alt="Principles of the Circular Economy" width="100"/></p>
     <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
 
