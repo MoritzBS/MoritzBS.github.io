@@ -35,6 +35,7 @@ This is our theoretical model of relationships:
 
 <img src="/img/in-post/theoreticalmodel.jpg" alt="Theoretical Model" width="1000"/>
 
+<img align="right" alt="Journal Cover" width="200" src="/img/in-post/bse.jpg">
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article open source here: 
 
  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032">
