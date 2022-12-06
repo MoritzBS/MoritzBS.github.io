@@ -33,4 +33,4 @@ A solution for this is increasing the automation of processes and the technologi
 If you want to learn more about this research, blockchain technology, the Circular Economy, or avenues for future research in this area, you can access the article for free here: 
 [![A mushroom-head robot](https://onlinelibrary.wiley.com/cover/10990836/bse.v31.8.cover.jpg)](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032)
 
-<img src="https://onlinelibrary.wiley.com/cover/10990836/bse.v31.8.cover.jpg" alt="drawing" style="width:200px;"/>
+<img src=img/in-post/bse.jpg alt="drawing" style="width:200px;"/>
