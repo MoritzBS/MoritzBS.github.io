@@ -21,7 +21,7 @@ Today I finally defended my dissertation entitled:
 Unraveling the Phenomenon of Blockchain Innovation: Five Studies on Blockchain’s Role for Economic and Sustainable Development
   </p></blockquote> 
   
-I am extremly excited! It was very challenging to present five years of research in only 30 minutes, but I really enjoyed the discussion that lasted approximately 90 minutes following the presentation. I was thrilled that so many of my colleagues and family who showed up to watch and celebrate with me afterwards, it certainly made me more nervous though :smile:. 
+I am extremly excited! It was very challenging to squeeze five years of research into only 30 minutes, but I really enjoyed the discussions following the presentation. I was thrilled that so many of my colleagues and family who showed up to watch and celebrate with me afterwards, it certainly made me more nervous though :smile:. 
 After the presentation and discussion, the reviewers discussed the final grade (the presentation and the actual thesis are graded separately) and after only five minutes, the result of magna cum laude was proclaimed.
 
 I am very grateful for the guidance and support of my thesis committee:  Professors [Nir Kshetri, University of North Carolina](https://bryan.uncg.edu/faculty-and-staff/kshetri-nir-b/), [Timm Teubner, Technical University of Berlin](https://www.tu.berlin/tds/ueber-uns/team/prof-dr-timm-teubner), and [Knut Blind, Technical University of Berlin/Fraunhofer ISI](https://www.tu.berlin/inno/ueber-uns/leitung). Special thanks to Knut for the persistent professional and emotional support in the previous years.
