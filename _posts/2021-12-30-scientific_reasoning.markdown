@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Inductive, Deductive, and Abductive Reasong in Academic Research " 
-subtitle:   "What to know about the differences"
+subtitle:   "Know the differences"
 date:       2021-12-30 11:00:00
 author:     "Moritz"
-header-img: "img/post-bg-circularrelationships.jpg"
+header-img: "img/post-bg-abductive.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
@@ -39,15 +39,17 @@ Overall, these three types of reasoning are commonly used in academic research t
 If you want to undertake qualitative research (e.g., using data from expert interviews), I highly recommend the following literature as a primer:
 
 <blockquote> 
-Coffey, A. J., & Atkinson, P. A. (1996). Making Sense of Qualitative Data - Complementary Resesearch Strategies. SAGE Publications Inc., https://us.sagepub.com/en-us/nam/making-sense-of-qualitative-data/book5617
+  <p>
+
+Coffey, A. J., & Atkinson, P. A. (1996). Making Sense of Qualitative Data - Complementary Resesearch Strategies. SAGE Publications Inc., https://us.sagepub.com/en-us/nam/making-sense-of-qualitative-data/book5617 <br>
   
-Corbin, J., & Strauss, A. (2008). Basics of qualitative research: Technics and procedures for developing grounded theory (3rd ed.). SAGE Publications. https://doi.org/10.4135/9781452230153
+Corbin, J., & Strauss, A. (2008). Basics of qualitative research: Technics and procedures for developing grounded theory (3rd ed.). SAGE Publications. https://doi.org/10.4135/9781452230153 <br>
   
-Dubois, A., & Gadde, L.-E. (2002). Systematic combining: an abductive approach to case research. Journal of Business Research, 55(7), 553–560. https://doi.org/10.1016/S0148-2963(00)00195-8
-  
-Reichertz, Jo. (2007). Abduction: The Logic of Discovery of Grounded Theory. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research. 11. 10.4135/9781848607941.n10. 
+Dubois, A., & Gadde, L.-E. (2002). Systematic combining: an abductive approach to case research. Journal of Business Research, 55(7), 553–560. https://doi.org/10.1016/S0148-2963(00)00195-8 <br>
+   
+Reichertz, Jo. (2007). Abduction: The Logic of Discovery of Grounded Theory. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research. 11. 10.4135/9781848607941.n10. <br>
   
   </blockquote> 
-
+</p>
 
        
