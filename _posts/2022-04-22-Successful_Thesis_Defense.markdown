@@ -19,7 +19,7 @@ tags:
 Today I finally defended my dissertation entitled: 
 <blockquote> 
 Unraveling the Phenomenon of Blockchain Innovation: Five Studies on Blockchain’s Role for Economic and Sustainable Development
-  </p></blockquote> 
+  </blockquote> 
   
 I am extremly excited! It was very challenging to squeeze five years of research into only 30 minutes, but I really enjoyed the discussions following the presentation. I was thrilled that so many of my colleagues and family who showed up to watch and celebrate with me afterwards, it certainly made me more nervous though :smile:. 
 After the presentation and discussion, the reviewers discussed the final grade (the presentation and the actual thesis are graded separately) and after only five minutes, the result of magna cum laude was proclaimed.
