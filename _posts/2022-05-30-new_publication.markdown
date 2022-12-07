@@ -16,7 +16,7 @@ tags:
   - Technology
 ---
 
-Our article on **blockchain-based innovations for the circular economy** has been recently published in the special issue of *Business Strategy and the Environment* and it’s open source :tada:. 
+Our article on **blockchain-based innovations for the circular economy** has been recently published in the special issue of *Business Strategy and the Environment* and it’s open source. 
 In this paper, we analyze the role and potential of the technology for the transition to a circular economy and developed a theoretical model of drivers and barriers.
 
 ## What is the Circular Economy?
