@@ -41,21 +41,21 @@ If you want to undertake qualitative research (e.g., using data from expert inte
 <blockquote> 
   <p>
 
-**Coffey, A. J., & Atkinson, P. A. (1996).** Making Sense of Qualitative Data - Complementary Resesearch Strategies. SAGE Publications Inc., https://us.sagepub.com/en-us/nam/making-sense-of-qualitative-data/book5617 <br>
+Coffey, A. J., & Atkinson, P. A. (1996). Making Sense of Qualitative Data - Complementary Resesearch Strategies. SAGE Publications Inc., https://us.sagepub.com/en-us/nam/making-sense-of-qualitative-data/book5617 <br>
   <br>
-**Corbin, J., & Strauss, A. (2008).** Basics of qualitative research: Technics and procedures for developing grounded theory (3rd ed.). SAGE Publications. https://doi.org/10.4135/9781452230153 <br> <br>
+Corbin, J., & Strauss, A. (2008). Basics of qualitative research: Technics and procedures for developing grounded theory (3rd ed.). SAGE Publications. https://doi.org/10.4135/9781452230153 <br> <br>
   
-**Dubois, A., & Gadde, L.-E. (2002).** Systematic combining: an abductive approach to case research. Journal of Business Research, 55(7), 553–560. https://doi.org/10.1016/S0148-2963(00)00195-8 <br> <br>
+Dubois, A., & Gadde, L.-E. (2002). Systematic combining: an abductive approach to case research. Journal of Business Research, 55(7), 553–560. https://doi.org/10.1016/S0148-2963(00)00195-8 <br> <br>
    
-**Reichertz, Jo. (2007).** Abduction: The Logic of Discovery of Grounded Theory. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research. 11. 10.4135/9781848607941.n10. <br> <br>
+Reichertz, Jo. (2007). Abduction: The Logic of Discovery of Grounded Theory. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research. 11. 10.4135/9781848607941.n10. <br> <br>
   
-  </blockquote> 
+
 </p>
 
 [^1] As of March 2022, the manuscript has been published in the Journal *Business Strategy and the Environment* under
-<blockquote> <p>
+<blockquote> 
 Böhmecke-Schwafert,  M.,  Wehinger,  M.,  &  Teigland,  R.  (2022). Blockchain for the circular economy: Theorizing blockchain's role inthe transition to a circular economy through an empirical investigation.*Business Strategy and the Environment*,1–16.https://doi.org/10.1002/bse.3032
-  </blockquote> 
+  
   </p>
          <html>
 Download here: <body>
