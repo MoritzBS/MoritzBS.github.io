@@ -17,7 +17,7 @@ tags:
   - Logic
 ---
 
-In a current manuscript (#ref_1), we embrace an abductive approach, which allows for theory refinement other than new theory generation or theory testing (Dubois & Gadde, 2002).
+In a current manuscript^1, we embrace an abductive approach, which allows for theory refinement other than new theory generation or theory testing (Dubois & Gadde, 2002).
 Abduction can be appropriate when a phenomenon has a high degree of novelty and the aim is to investigate the underlying variables and their relationships (Coffey & Atkinson, 1996).
 Abductive reasoning is logically located somewhere inbetween **inductive** and **deductive reasoning**. 
 But what are the actual differences of these reasonings and when should which approach be applied in academic research? Let us have a brief look:
