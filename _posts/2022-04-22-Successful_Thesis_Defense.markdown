@@ -4,7 +4,7 @@ title:      "What an exciting day - Ph.D. thesis defense!"
 subtitle:   "Today I successfully defended my Ph.D. thesis"
 date:       2022-4-22 22:00:00
 author:     "Moritz"
-header-img: "/img/in-post/Dissertation/Diploma.jpg"
+header-img: "/img/in-post/dissertation/Diploma.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
