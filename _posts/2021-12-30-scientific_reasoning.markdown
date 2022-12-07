@@ -17,7 +17,7 @@ tags:
   - Logic
 ---
 
-In a current manuscript[^1], we embrace an abductive approach, which allows for theory refinement other than new theory generation or theory testing (Dubois & Gadde, 2002).
+In a current manuscript (#ref_1), we embrace an abductive approach, which allows for theory refinement other than new theory generation or theory testing (Dubois & Gadde, 2002).
 Abduction can be appropriate when a phenomenon has a high degree of novelty and the aim is to investigate the underlying variables and their relationships (Coffey & Atkinson, 1996).
 Abductive reasoning is logically located somewhere inbetween **inductive** and **deductive reasoning**. 
 But what are the actual differences of these reasonings and when should which approach be applied in academic research? Let us have a brief look:
@@ -53,7 +53,7 @@ Reichertz, Jo. (2007). Abduction: The Logic of Discovery of Grounded Theory. For
 
 
 
-[^1] As of March 2022, the manuscript has been published in the Journal *Business Strategy and the Environment* under
+1. As of March 2022, the manuscript has been published in the Journal *Business Strategy and the Environment* under
  
 Böhmecke-Schwafert,  M.,  Wehinger,  M.,  &  Teigland,  R.  (2022). Blockchain for the circular economy: Theorizing blockchain's role inthe transition to a circular economy through an empirical investigation.*Business Strategy and the Environment*,1–16.https://doi.org/10.1002/bse.3032
   
