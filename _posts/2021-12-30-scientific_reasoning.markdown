@@ -57,8 +57,8 @@ Reichertz, Jo. (2007). Abduction: The Logic of Discovery of Grounded Theory. For
  
 Böhmecke-Schwafert,  M.,  Wehinger,  M.,  &  Teigland,  R.  (2022). Blockchain for the circular economy: Theorizing blockchain's role inthe transition to a circular economy through an empirical investigation.*Business Strategy and the Environment*,1–16.https://doi.org/10.1002/bse.3032
   
-         <html>
-Download here: <body>
+         
+Download here: 
   <div style="text-align: center;">
    <center>
       <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032"><img src="/img/in-post/bse.jpg" alt="Journal Cover" width="50"></a>
