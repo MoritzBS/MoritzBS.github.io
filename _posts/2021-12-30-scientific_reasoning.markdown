@@ -61,5 +61,5 @@ Böhmecke-Schwafert,  M.,  Wehinger,  M.,  &  Teigland,  R.  (2022). Blockchain 
 Download here: 
   <div style="text-align: center;">
    <center>
-      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032"><img src="/img/in-post/bse.jpg" alt="Journal Cover" width="50"></a>
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3032"><img src="/img/in-post/bse.jpg" alt="Journal Cover" width="120"></a>
    </center>
