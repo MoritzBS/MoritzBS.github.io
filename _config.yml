@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Postdoctoral Researcher and Lecturer at TU Berlin, Ph.D in Economics, Managing Consultant at IBM. Research at the intersection of digital innovation and development."
+sidebar-about-description: "Postdoctoral Researcher and Lecturer at TU Berlin, Ph.D in Economics, Manager at the Economic Advisory of EY. Research at the intersection of digital innovation and development economics."
 sidebar-avatar: /img/mo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
