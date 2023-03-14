@@ -25,7 +25,7 @@ Blockchain technology has the potential to drive economic development in the Glo
 
 ## Our findings
 The results indicate that blockchain innovators in the Global South are already engaging in various application areas beyond the financial sector, addressing critical development issues. Hence they can contribute to the achievement of various Sustainable Development Goals (SDGs) what is further discussed in the paper. However, the findings also suggests that there is still a largely untapped potential for blockchain innovations in various promising application areas relevant to the Sustainable Development Goals (SDGs), such as sustainable energy or integrity verification, where our analysis did not find much innovation activity.
-<img src="/img/in-post/CategoriesGlobalSouth.jpg" alt="Categories" width="1000"/>
+<img src="/img/in-post/CategoriesGlobalSouth.JPG" alt="Categories" width="1000"/>
 
 
 If you want to learn more about this research, blockchain innovations role for Economic and Sustainable Development, or avenues for future research in this area, you can access the article in *Technological Forecasting and Social Change* until April 28, 2023, the paper is acccessible without an Elsevier subscription <a href="https://authors.elsevier.com/a/1gjNF98SGwh7W">here</a>.
