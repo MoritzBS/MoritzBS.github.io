@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "New publication in Empirica" 
+title:      "New publication in Empirica - Journal of European Economics" 
 subtitle:   "The trade effects of product market regulation in global value chains: evidence from OECD and BRICS countries between 2000 and 2015"
 date:       2023-4-24 22:00:00
 author:     "Moritz"
@@ -17,12 +17,14 @@ tags:
   - Trade-in-Value-Added
 ---
 
-Our empirical article on **the trade-effects of regulation** has been recently published in *Empirica*.
+I am super excited that our empirical article on **the trade-effects of regulation** has been recently published in *Empirica - Journal of European Economics*.
 In this paper, we disentangled different types of regulations and their trade effects to account for the heterogeneity/complexity of regulation. Using an augmented gravity model, we applied Pseudo-Maximum Likelihood (PPML) estimations on data from 40 OECD and BRICS countries between 2000 and 2015, thus differentiating between emerging and industrialized economies.
+
+<img src="/img/in-post/publicationempirica.JPG" alt="Categories" width="1000"/>
+
 
 ## Our findings
 Our results indicate that PMR overall has a negative impact on trade, with barriers to trade and investment being the main drivers. However, we also observed a positive trade effect of certain PMR. In particular we found positive trade effect of different regulation in BRICS countries. The findings highlight the need for regulatory reform to improve integration in GVC. Moreover they underline the detrimental effects of increasing protectionism and tariff hikes, a phenomenon that we increasingly observe in recent years from the world’s largest economies, such as the United States and China.
-<img src="/img/in-post/CategoriesGlobalSouth.JPG" alt="Categories" width="1000"/>
 
 ## Implications
 We hope that our study will inform policy discussions and spur further research on the complex relationship between regulation and trade. 
@@ -33,5 +35,5 @@ If you want to learn more about this research, regulation, and trade in Global V
 <body>
   <div style="text-align: center;">
    <center>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0040162523001312"><img src="/img/in-post/TechnologicalForecasting.jpg" alt="Journal Cover" width="190"></a>
+      <a href="https://link.springer.com/article/10.1007/s10663-023-09574-z"><img src="/img/in-post/empiricacover.jpg" alt="Journal Cover" width="190"></a>
    </center>
