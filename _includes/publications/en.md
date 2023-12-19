@@ -40,6 +40,3 @@ Abstract: The General Data Protection Regulation (GDPR) has recently come into f
 
 Böhmecke-Schwafert, M. (2022): The Phenomenon of Blockchain Innovation for International Trade in Global Value Chains: A Systematic Literature Review. _Under Review_
 
-Böhmecke-Schwafert, M., Dörries, C. (2023): Measuring Innovation in Emerging Countries with Unsupervised Machine Learning An explorative analysis of the ICT Sector in Mauritius based on Web Mining and Topic Modeling. _Under Review_
-
-
