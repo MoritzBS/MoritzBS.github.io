@@ -29,6 +29,6 @@ I am very grateful for the guidance and support of my thesis committee:  Profess
 Thanks y'all! I cannot list everyone who supported me over the last years, but I wrote three pages of acknowledgements in my thesis - There have been so many great people!
 
 
-<img src="/img/in-post/dissertation/phd.jpg" alt="Committee" width="1000"/>
+<img src="/img/in-post/dissertation/phd.jpg" alt="Moritz Böhmecke-Schwafert, Nir Kshetri, Knut Blind, Timm Teubner" width="1000"/>
 
        
