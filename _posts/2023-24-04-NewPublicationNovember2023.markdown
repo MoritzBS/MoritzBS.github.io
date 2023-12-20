@@ -1,14 +1,13 @@
----
 layout:     post
 title:      "New publication in the Journal of the Knowledge Economy" 
 subtitle:   "Measuring Innovation in Mauritius’ ICT Sector Using Unsupervised Machine Learning: A Web Mining and Topic Modeling Approach"
-date:       2023-4-23 10:00:00
+date:       2023-11-25 10:00:00
 author:     "Moritz"
 header-img: "img/post-bg-mauritius.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-  - Innovation measurement
+- Innovation measurement
 - Emerging economies
 - Machine learning in innovation
 - ICT sector in Mauritius
