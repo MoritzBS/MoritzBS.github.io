@@ -20,7 +20,7 @@ tags:
 
 I am thrilled to announce the publication of our latest research in the Journal of the Knowledge Economy. In this study, co-authored by Colin Dörries, I delve into the intricacies of measuring innovation in Mauritius' Information and Communication Technology (ICT) sector using novel techniques in innovation research, namely web mining and topic modeling. By combining unsupervised machine learning with web mining, we offer a blueprint for future sector-specific innovation studies, in particular for innovation studies on emerging countries that usually lack data and where traditional innovation indicators are having limitation regarding lack of data and timeliness, cost-efficiency, or accuracy. 
 
-<img src="/img/in-post/publicationjke.jpg" alt="Article Screenshot" width="1000"/>
+<img src="/img/in-post/publicationjke.jpg" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
 
 ## Our Findings
 
@@ -43,10 +43,10 @@ The Oslo Manual outlines crucial properties for innovation indicators, emphasizi
 ### ICT Evolution in Mauritius
 Mauritius, as an illustrative case within the cohort of emerging economies, has undergone a transformative trajectory towards becoming an ICT-driven economy. The establishment of the Ministry of Information and Communication Technology in 1997 marked a seminal juncture, setting the stage for a strategic shift. The subsequent "Cyber Island" initiative in the early 2000s, coupled with the liberalization of the telecommunication sector in 2003, exemplifies the deliberate efforts to orchestrate a paradigmatic transition. Institutional robustness, manifested in high rankings for institutional quality and a resilient financial system, endowed Mauritius with an allure for multinational corporations seeking conducive environments. The ensuing ascent of Mauritius as a hub for business process optimization (BPO) firms is emblematic of the symbiotic relationship between institutional soundness and economic dynamism.
 
-## Innovation Landscape in Mauritius' ICT Sector
+### Innovation Landscape in Mauritius' ICT Sector
 Despite the pronounced contributions of the ICT sector to Mauritius' GDP and employment landscape, the assessment of innovation within this domain encounters substantial complexities. Traditional output indicators, notably patents, exhibit a marked dearth of activity, with a discernible proportion emanating from non-resident entities. Metrics such as R&D expenditures as a percentage of GDP and the volume of scientific publications present modest figures, indicative of a nuanced innovation landscape. Challenges in Intellectual Property Rights (IPR) regulation, compounded by the non-ratification of the Patent Cooperation Treaty (PCT), further contribute to the intricacies of gauging innovation in Mauritius. This multifaceted scenario underscores the imperative for a more nuanced and context-specific paradigm in assessing innovation within the confines of emerging economies. Innovation, a cornerstone of economic growth, often eludes conventional measurement in emerging economies like Mauritius. Traditional indicators, relying on input-output measures, patents, and surveys, fall short in capturing the dynamic landscape of the ICT sector. 
 
-### Methodology
+## Methodology
 
 This study introduces a lean methodology for exploring innovation activities, employing unsupervised machine learning and natural language processing (NLP) in a four-step process that should serve as a blueprint
 
