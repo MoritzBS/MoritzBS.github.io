@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      "New publication in the Journal of the Knowledge Economy" 
 subtitle:   "Measuring Innovation in Mauritius’ ICT Sector Using Unsupervised Machine Learning: A Web Mining and Topic Modeling Approach"
@@ -13,12 +14,13 @@ tags:
 - ICT sector in Mauritius
 - Natural language processing
 - Unsupervised machine learning
+  
 ---
 ## Summary
 
 I am thrilled to announce the publication of our latest research in the Journal of the Knowledge Economy. In this study, co-authored by Colin Dörries, I delve into the intricacies of measuring innovation in Mauritius' Information and Communication Technology (ICT) sector using novel techniques in innovation research, namely web mining and topic modeling. By combining unsupervised machine learning with web mining, we offer a blueprint for future sector-specific innovation studies, in particular for innovation studies on emerging countries that usually lack data and where traditional innovation indicators are having limitation regarding lack of data and timeliness, cost-efficiency, or accuracy. 
 
-<img src="/img/in-post/publicationjke.JPG" alt="Categories" width="1000"/>
+<img src="/img/in-post/publicationjke.jpg" alt="Article Screenshot" width="1000"/>
 
 ## Our Findings
 
