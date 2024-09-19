@@ -1,104 +1,88 @@
+
 ---
 layout:     post
-title:      "New Publication in Telecommunications Policy"
-subtitle:   "Exploring Blockchain’s Role in Global Value Chains: Insights from a Systematic Literature Review"
-date:       2024-09-19 10:00:00
+title:      "New publication in the Journal of the Knowledge Economy" 
+subtitle:   "Measuring Innovation in Mauritius’ ICT Sector Using Unsupervised Machine Learning: A Web Mining and Topic Modeling Approach"
+date:       2023-11-25 10:00:00
 author:     "Moritz"
-header-img: "img/post-bg-blockchain-trade.jpg"
+header-img: "img/post-bg-mauritius.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-- Blockchain
-- Global Value Chains
-- Digital Innovation
-- Trade
-- Systematic Literature Review
-- Sustainability
+- Innovation measurement
+- Emerging economies
+- Machine learning in innovation
+- ICT sector in Mauritius
+- Natural language processing
+- Unsupervised machine learning
+  
 ---
-
 ## Summary
 
-I am really happy to share  the publication of my latest research in the October edition of *Telecommunications Policy* and the last paper of my Ph.D. thesis. This paper represents a significant step in bridging my empirical research on **international trade and global value chains (GVC)** 🌍📊 with my extensive work on **digital innovation and blockchain technology** 🔗, which was the focus of my Ph.D. The study conducts a systematic literature review to explore and structure the impact of blockchain on international trade, aiming to address both theoretical and practical gaps in current research. I’m grateful for the insightful comments from the anonymous reviewers, as well as the invaluable guidance from my doctoral advisor, Knut Blind, and the editor, Erik Bohlin. Their feedback has greatly enriched this single-author paper.
+I am thrilled to announce the publication of our latest research in the Journal of the Knowledge Economy. In this study, co-authored by Colin Dörries, we delve into the intricacies of measuring innovation in Mauritius' Information and Communication Technology (ICT) sector using novel techniques in innovation research, namely web mining and topic modeling. By combining unsupervised machine learning with web mining, we offer a blueprint for future sector-specific innovation studies, in particular for innovation studies on emerging countries that usually lack data and where traditional innovation indicators are having limitation regarding lack of data and timeliness, cost-efficiency, or accuracy. 
 
-<img src="/img/in-post/publication_telco.jpg" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
+<img src="/img/in-post/publicationjke.jpg" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
 
 ## Background
+In the dynamic landscape of emerging economies, the evaluation of innovation poses intricate challenges, particularly in the context of traditional indicators that have primarily catered to developed nations. The Oslo Manual 2018 defines innovation indicators as comprehensive statistical measures encapsulating inventive activities, necessitating a nuanced understanding of developmental, financial, and commercial dimensions. The complexity of assessing innovation is underscored by a systematic literature review revealing 82 distinct indicators, as delineated by Dziallas and Blind (2019).
+The Oslo Manual outlines crucial properties for innovation indicators, emphasizing their relevance, accuracy, reliability, precision, and timeliness. These properties form the foundation for methodological approaches, demanding a careful alignment with the distinctive characteristics of emerging economies.
 
-Blockchain technology has garnered considerable attention for its potential to disrupt business processes and trade structures within global value chains. Despite this excitement, much of the current research is either highly conceptual or focused on specific case studies. This study aims to fill this gap by providing a comprehensive review of how blockchain innovations impact international trade.
+### ICT Evolution in Mauritius
+Mauritius, as an illustrative case within the cohort of emerging economies, has undergone a transformative trajectory towards becoming an ICT-driven economy. The establishment of the Ministry of Information and Communication Technology in 1997 marked a seminal juncture, setting the stage for a strategic shift. The subsequent "Cyber Island" initiative in the early 2000s, coupled with the liberalization of the telecommunication sector in 2003, exemplifies the deliberate efforts to orchestrate a paradigmatic transition. Institutional robustness, manifested in high rankings for institutional quality and a resilient financial system, endowed Mauritius with an allure for multinational corporations seeking conducive environments. The ensuing ascent of Mauritius as a hub for business process optimization (BPO) firms is emblematic of the symbiotic relationship between institutional soundness and economic dynamism.
 
-Blockchain holds promise for improving several aspects of trade, including transparency, efficiency, and sustainability. However, the technology's effectiveness depends on its integration with complementary tools and technologies. My research examines these dynamics by addressing key questions such as:
-
-- What role do blockchain innovations play in facilitating trade within GVCs?
-- What barriers are hindering the adoption of blockchain in trade?
-
-Our findings categorize blockchain applications into five core areas: Trade Documents, Trade Finance, Trusted Real-Time Information Sharing, Provenance, and Sustainable GVC.
+### Innovation Landscape in Mauritius' ICT Sector
+Despite the pronounced contributions of the ICT sector to Mauritius' GDP and employment landscape, the assessment of innovation within this domain encounters substantial complexities. Traditional output indicators, notably patents, exhibit a marked dearth of activity, with a discernible proportion emanating from non-resident entities. Metrics such as R&D expenditures as a percentage of GDP and the volume of scientific publications present modest figures, indicative of a nuanced innovation landscape. Challenges in Intellectual Property Rights (IPR) regulation, compounded by the non-ratification of the Patent Cooperation Treaty (PCT), further contribute to the intricacies of gauging innovation in Mauritius. This multifaceted scenario underscores the imperative for a more nuanced and context-specific paradigm in assessing innovation within the confines of emerging economies. Innovation, a cornerstone of economic growth, often eludes conventional measurement in emerging economies like Mauritius. Traditional indicators, relying on input-output measures, patents, and surveys, fall short in capturing the dynamic landscape of the ICT sector. 
 
 ## Methodology
 
-This study employs a systematic literature review to explore blockchain’s impact on international trade, utilizing the following approach:
+This study introduces a lean methodology for exploring innovation activities, employing unsupervised machine learning and natural language processing (NLP) in a four-step process that should serve as a blueprint for future innovation studies.
 
-1. **Literature Review:** A thorough review of existing literature to identify and categorize blockchain applications in trade.
-2. **Framework Development:** Creation of a framework to structure the different applications of blockchain technology.
-3. **Barrier Identification:** Analysis of barriers to blockchain adoption, including scalability, regulatory, and institutional challenges.
-4. **Integration Insights:** Examination of how blockchain integrates with other technologies like IoT and GIS to enhance its effectiveness.
 
+1. **Text Data Analytics with Machine Learning:**
+   - **Data Collection:** Constructing a list of URLs for Mauritian ICT firms through company directories.
+   - **Web Scraping:** Utilizing the ARGUS tool to scrape unstructured text data from 325 company websites.
+
+2. **De-contextualization:**
+   - **Natural Language Processing (NLP):** Applying NLP techniques, specifically Latent Dirichlet Allocation (LDA), for information extraction.
+   - **Topic Modeling:** Focusing on LDA as a generative probabilistic model, using coherence scores to determine the optimal number of topics (seven topics identified).
+
+3. **Re-contextualization:**
+   - **Intertopic Distance Map (ITDM):** Employing PyLDAvis for visual analysis of results, understanding relationships and thematic distances between topics.
+   - **Qualitative Coding:** Involving an iterative process with co-authors, reviewing top keywords and determining final titles for each identified topic.
+     
 ## Our Findings
 
-The study reveals a nuanced view of blockchain’s potential and limitations:
+Our study revealed seven  categories of innovation activity within Mauritius' ICT sector:
 
-- **Trade Documents:** Blockchain can streamline and secure trade documentation, reducing fraud and improving efficiency.
-- **Trade Finance:** Innovations in trade finance through blockchain offer enhanced transparency and reduced transaction costs.
-- **Trusted Real-Time Information Sharing:** Real-time data sharing enabled by blockchain improves decision-making and supply chain management.
-- **Provenance:** Blockchain enhances the traceability of products, supporting sustainability efforts and compliance with regulations.
-- **Sustainable GVC:** Blockchain contributes to more sustainable global value chains by providing transparent records of environmental and social practices.
+1. **BPO and Management Services:** Focused on process innovation, leveraging competitive advantages and government initiatives.
+2. **Cloud:** Interconnected with BPO services, supporting SMEs and aligning with the government's Digital Mauritius 2030 plan.
+3. **Security:** Emphasizing cybersecurity innovations, reflected in Mauritius' high ranking in the Global Cybersecurity Index.
+4. **Consulting:** Supporting digital transformation in various sectors, particularly prominent in the financial industry.
+5. **Web Development:** A pillar of the ICT sector, serving as vital service providers for key economic pillars.
+6. **Mobile Connectivity:** Engaged in mobile ecosystems, capitalizing on high mobile phone penetration and government initiatives.
+7. **Generic Category:** Heterogeneous, reflecting diverse tokens that defy specific categorization.
 
-### Barriers to Adoption
-
-We identified eleven significant barriers to blockchain adoption in trade, including:
-
-- **Scalability:** Technical limitations in handling large volumes of transactions.
-- **Regulatory Uncertainty:** Lack of clear regulatory frameworks and standards.
-- **Institutional Resistance:** Resistance from established institutions and stakeholders.
+These findings triangulated with literature and further quantitative data on the innovation ecosystem of Mauritius contribute to a nuanced understanding of innovation in the ICT sector. The study emphasizes the importance of timely and accurate innovation indicators for effective policymaking and introduces a methodological blueprint for future research in emerging economies
 
 ## Implications and Contributions
 
-O## Implications and Contributions
+Our study's results and implications present a step forward in understanding and measuring innovation activities, particularly in emerging economies. The major contributions and implications can be summarized as follows:
 
-The findings of our study offer valuable insights and contributions to both academic research and practical applications in the realm of blockchain technology and global value chains (GVCs). Below are the key implications and contributions:
+- **Methodological Streamlining:** The study introduces a lean methodology, leveraging natural language processing and machine learning, streamlining the exploration of innovation activities.
+  
+- **Adaptability:** The modular design of the approach ensures easy adaptation to diverse emerging economies, offering a versatile tool for future research.
 
-### Methodological Contributions
+- **Insightful Validation:** Identification and analysis of seven innovation topics provide rich insights into the dynamics of innovation in an emerging economy, setting the stage for more targeted studies.
 
-- **Comprehensive Framework:** 
-  Our study introduces a detailed framework categorizing blockchain applications in trade. This framework is essential for structuring future research and understanding how blockchain technology can be applied across various dimensions of international trade. By categorizing applications into Trade Documents, Trade Finance, Trusted Real-Time Information Sharing, Provenance, and Sustainable GVC, we provide a structured approach that highlights different aspects of blockchain’s utility in trade.
+- **Policy Alignment:** Policymakers can align strategies with identified innovation areas, fostering a conducive environment for technological advancements.
 
-- **Systematic Literature Review:** 
-  We conducted a thorough systematic literature review to explore the impact of blockchain on international trade, filling a gap in existing research. This methodical approach ensures that our findings are grounded in a comprehensive analysis of current knowledge, offering a robust basis for future research.
+- **Continuous Monitoring:** Given the dynamic nature of innovation, a continuous monitoring approach is recommended for adaptive policies.
 
-- **Barrier Identification:** 
-  Our study identifies eleven significant barriers to blockchain adoption in trade, such as scalability issues, regulatory uncertainty, and institutional resistance. Highlighting these barriers provides a clearer understanding of the challenges facing blockchain technology and offers a roadmap for addressing them.
 
-### Practical Insights
-
-- **Enhanced Understanding of Blockchain’s Role:** 
-  By categorizing blockchain applications and analyzing their impact, our study enhances the understanding of blockchain’s potential and limitations in international trade. This knowledge is crucial for businesses and policymakers seeking to leverage blockchain technology effectively.
-
-- **Integration with Complementary Technologies:** 
-  We emphasize that blockchain’s effectiveness is significantly enhanced when integrated with other technologies, such as the Internet of Things (IoT) and Geographic Information Systems (GIS). This insight is valuable for practitioners looking to maximize the benefits of blockchain by combining it with complementary tools.
-
-- **Guidance for Companies and Policymakers:** 
-  The study provides practical guidance for companies navigating blockchain adoption and integration. It suggests that successful implementation requires careful consideration of both technological and regulatory factors, as well as collaboration with supply chain partners and regulators.
-
-### Policy Recommendations
-
-- **Need for Clear Regulatory Frameworks:** 
-  Our findings underscore the importance of developing clear and comprehensive regulatory frameworks to support blockchain adoption. Addressing regulatory uncertainty is crucial for fostering an environment conducive to the technology’s growth and implementation.
-
-- **Promotion of Interdisciplinary Collaboration:** 
-  To overcome the challenges associated with blockchain adoption, our research advocates for interdisciplinary collaboration between IT professionals, supply chain partners, and regulators. Building teams that can address both technical and regulatory complexities is key to successful blockchain integration.
-
-- **Support for Sustainable Practices:** 
-  The study highlights how blockchain can contribute to more sustainable global value chains by providing transparent records of environmental and social practices. Policymakers and companies can use this information to promote sustainability and improve supply chain transparency.
-
-By offering a detailed framework, identifying barriers, and providing practical and policy-oriented insights, our study contributes to a deeper understanding of blockchain’s role in global trade and provides actionable guidance for future research and practice.
-
-If you want to learn more about this research, you can find the article open access in *Telecommunications Policy* [here]([https://link.springer.com/article/10.1007/s13132-024-01130-7](https://www.sciencedirect.com/science/article/pii/S0308596124001320). Thanks to the TU Berlin and the DEAL agreement, it remains open access.
+If you want to learn more about this research, you can find the article open access in *The Journal of Knowledge Economy* <a href="https://link.springer.com/article/10.1007/s13132-023-01587-0">here</a>.
+   <html>
+<body>
+  <div style="text-align: center;">
+   <center>
+      <a href="https://link.springer.com/article/10.1007/s13132-023-01587-0"><img src="/img/in-post/JKE.jpg" alt="Journal Cover" width="190"></a>
+   </center>
