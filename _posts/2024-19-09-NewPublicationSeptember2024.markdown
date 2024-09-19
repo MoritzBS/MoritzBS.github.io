@@ -22,7 +22,7 @@ I am really happy to share  the publication of my latest research in the October
 
 There’s (still) a lot of buzz about blockchain’s potential (or more recently the lack thereof), for example, regarding its ability to enhance provenance knowledge, traceability, and sustainability in Global Value Chains 🌿🔍. The findings suggest a more nuanced perspective: while blockchain has enormous potential for increasing efficiency, addressing regulatory challenges (such as the digital product passport) and societal issues, its effectiveness is contingent upon strategic integration. This work challenges the common misconception that blockchain is a cure-all and instead highlights its true strength when integrated with other emerging technologies—such as IoT, GIS, or existing ERP systems. Ultimately, blockchain serves only as one potential technological infrastructure that may be more or less efficient compared to other distributed ledger and non-distributed approaches, depending on the specific use case. 
 
-<img src="/img/in-post/publication_telco.png" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
+<img src="/img/in-post/publication_telco.PNG" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
 
 ## Background
 
