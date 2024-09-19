@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "New publication in the Journal of the Knowledge Economy" 
