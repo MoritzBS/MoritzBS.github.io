@@ -20,7 +20,9 @@ tags:
 
 I am really happy to share  the publication of my latest research in the October edition of *Telecommunications Policy* and the last paper of my Ph.D. thesis. This paper represents a significant step in bridging my empirical research on **international trade and global value chains (GVC)** 🌍📊 with my extensive work on **digital innovation and blockchain technology** 🔗, which was the focus of my Ph.D. The study conducts a systematic literature review to explore and structure the impact of blockchain on international trade, aiming to address both theoretical and practical gaps in current research. I’m grateful for the insightful comments from the anonymous reviewers, as well as the invaluable guidance from my doctoral advisor, Knut Blind, and the editor, Erik Bohlin. Their feedback has greatly enriched this single-author paper.
 
-<img src="/img/in-post/publication_telco.jpg" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
+There’s (still) a lot of buzz about blockchain’s potential (or more recently the lack thereof), for example, regarding its ability to enhance provenance knowledge, traceability, and sustainability in Global Value Chains 🌿🔍. The findings suggest a more nuanced perspective: while blockchain has enormous potential for increasing efficiency, addressing regulatory challenges (such as the digital product passport) and societal issues, its effectiveness is contingent upon strategic integration. This work challenges the common misconception that blockchain is a cure-all and instead highlights its true strength when integrated with other emerging technologies—such as IoT, GIS, or existing ERP systems. Ultimately, blockchain serves only as one potential technological infrastructure that may be more or less efficient compared to other distributed ledger and non-distributed approaches, depending on the specific use case. 
+
+<img src="/img/in-post/publication_telco.png" alt="Article Screenshot Moritz Böhmecke-Schwafert" width="1000"/>
 
 ## Background
 
@@ -31,7 +33,7 @@ Blockchain holds promise for improving several aspects of trade, including trans
 - What role do blockchain innovations play in facilitating trade within GVCs?
 - What barriers are hindering the adoption of blockchain in trade?
 
-Our findings categorize blockchain applications into five core areas: Trade Documents, Trade Finance, Trusted Real-Time Information Sharing, Provenance, and Sustainable GVC.
+The findings categorize blockchain applications into five core areas: Trade Documents, Trade Finance, Trusted Real-Time Information Sharing, Provenance, and Sustainable GVC.
 
 ## Methodology
 
@@ -42,7 +44,7 @@ This study employs a systematic literature review to explore blockchain’s impa
 3. **Barrier Identification:** Analysis of barriers to blockchain adoption, including scalability, regulatory, and institutional challenges.
 4. **Integration Insights:** Examination of how blockchain integrates with other technologies like IoT and GIS to enhance its effectiveness.
 
-## Our Findings
+## Findings
 
 The study reveals a nuanced view of blockchain’s potential and limitations:
 
@@ -62,25 +64,23 @@ We identified eleven significant barriers to blockchain adoption in trade, inclu
 
 ## Implications and Contributions
 
-O## Implications and Contributions
-
-The findings of our study offer valuable insights and contributions to both academic research and practical applications in the realm of blockchain technology and global value chains (GVCs). Below are the key implications and contributions:
+The findings of the study offer valuable insights and contributions to both academic research and practical applications in the realm of blockchain technology and GVC. Below are the key implications and contributions:
 
 ### Methodological Contributions
 
 - **Comprehensive Framework:** 
-  Our study introduces a detailed framework categorizing blockchain applications in trade. This framework is essential for structuring future research and understanding how blockchain technology can be applied across various dimensions of international trade. By categorizing applications into Trade Documents, Trade Finance, Trusted Real-Time Information Sharing, Provenance, and Sustainable GVC, we provide a structured approach that highlights different aspects of blockchain’s utility in trade.
+The study introduces a detailed framework categorizing blockchain applications in trade. This framework is essential for structuring future research and understanding how blockchain technology can be applied across various dimensions of international trade. By categorizing applications into Trade Documents, Trade Finance, Trusted Real-Time Information Sharing, Provenance, and Sustainable GVC, we provide a structured approach that highlights different aspects of blockchain’s utility in trade.
 
 - **Systematic Literature Review:** 
-  We conducted a thorough systematic literature review to explore the impact of blockchain on international trade, filling a gap in existing research. This methodical approach ensures that our findings are grounded in a comprehensive analysis of current knowledge, offering a robust basis for future research.
+  We conducted a thorough systematic literature review to explore the impact of blockchain on international trade, filling a gap in existing research. This methodical approach ensures that the findings are grounded in a comprehensive analysis of current knowledge, offering a robust basis for future research.
 
 - **Barrier Identification:** 
-  Our study identifies eleven significant barriers to blockchain adoption in trade, such as scalability issues, regulatory uncertainty, and institutional resistance. Highlighting these barriers provides a clearer understanding of the challenges facing blockchain technology and offers a roadmap for addressing them.
+  The study identifies eleven significant barriers to blockchain adoption in trade, such as scalability issues, regulatory uncertainty, and institutional resistance. Highlighting these barriers provides a clearer understanding of the challenges facing blockchain technology and offers a roadmap for addressing them.
 
 ### Practical Insights
 
 - **Enhanced Understanding of Blockchain’s Role:** 
-  By categorizing blockchain applications and analyzing their impact, our study enhances the understanding of blockchain’s potential and limitations in international trade. This knowledge is crucial for businesses and policymakers seeking to leverage blockchain technology effectively.
+  By categorizing blockchain applications and analyzing their impact, The study enhances the understanding of blockchain’s potential and limitations in international trade. This knowledge is crucial for businesses and policymakers seeking to leverage blockchain technology effectively.
 
 - **Integration with Complementary Technologies:** 
   We emphasize that blockchain’s effectiveness is significantly enhanced when integrated with other technologies, such as the Internet of Things (IoT) and Geographic Information Systems (GIS). This insight is valuable for practitioners looking to maximize the benefits of blockchain by combining it with complementary tools.
@@ -91,15 +91,16 @@ The findings of our study offer valuable insights and contributions to both acad
 ### Policy Recommendations
 
 - **Need for Clear Regulatory Frameworks:** 
-  Our findings underscore the importance of developing clear and comprehensive regulatory frameworks to support blockchain adoption. Addressing regulatory uncertainty is crucial for fostering an environment conducive to the technology’s growth and implementation.
+  The findings underscore the importance of developing clear and comprehensive regulatory frameworks to support blockchain adoption. Addressing regulatory uncertainty is crucial for fostering an environment conducive to the technology’s growth and implementation.
 
 - **Promotion of Interdisciplinary Collaboration:** 
-  To overcome the challenges associated with blockchain adoption, our research advocates for interdisciplinary collaboration between IT professionals, supply chain partners, and regulators. Building teams that can address both technical and regulatory complexities is key to successful blockchain integration.
+  To overcome the challenges associated with blockchain adoption, The research advocates for interdisciplinary collaboration between IT professionals, supply chain partners, and regulators. Building teams that can address both technical and regulatory complexities is key to successful blockchain integration.
 
 - **Support for Sustainable Practices:** 
   The study highlights how blockchain can contribute to more sustainable global value chains by providing transparent records of environmental and social practices. Policymakers and companies can use this information to promote sustainability and improve supply chain transparency.
 
-By offering a detailed framework, identifying barriers, and providing practical and policy-oriented insights, our study contributes to a deeper understanding of blockchain’s role in global trade and provides actionable guidance for future research and practice.
+By offering a detailed framework, identifying barriers, and providing practical and policy-oriented insights, the study contributes to a deeper understanding of blockchain’s role in global trade and provides actionable guidance for future research and practice.
 
-If you want to learn more about this research, you can find the article open access in *Telecommunications Policy* [here]([https://link.springer.com/article/10.1007/s13132-024-01130-7](https://www.sciencedirect.com/science/article/pii/S0308596124001320). Thanks to the TU Berlin and the DEAL agreement, it remains open access.
+If you want to learn more about this research, you can find the article open access in *Telecommunications Policy* [here]([https://www.sciencedirect.com/science/article/pii/S0308596124001320]). Thanks to the TU Berlin and the DEAL agreement, it remains open access. Of course you can always reach out to me, I am happy to talk with you about the results! :smile:
+
 
