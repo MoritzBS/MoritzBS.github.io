@@ -4,7 +4,7 @@ title:      "New Publication in Telecommunications Policy"
 subtitle:   "Exploring Blockchain’s Role in Global Value Chains: Insights from a Systematic Literature Review"
 date:       2024-09-19 10:00:00
 author:     "Moritz"
-header-img: "img/post-bg-blockchain.jpg"
+header-img: "img/post-bg-blockchain-trade.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
