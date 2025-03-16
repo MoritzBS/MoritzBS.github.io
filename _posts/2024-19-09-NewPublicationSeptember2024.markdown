@@ -46,7 +46,7 @@ This study employs a systematic literature review to explore blockchain’s impa
 
 ## Findings
 
-The study reveals a nuanced view of blockchain’s potential and limitations:
+The study reveals a view of blockchain’s potential and limitations in the trade context:
 
 - **Trade Documents:** Blockchain can streamline and secure trade documentation, reducing fraud and improving efficiency.
 - **Trade Finance:** Innovations in trade finance through blockchain offer enhanced transparency and reduced transaction costs.
